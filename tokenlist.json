@@ -1,0 +1,27 @@
+{
+  "name": "Custom Token List",
+  "timestamp": "2023-04-22T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "BERO",
+      "address": "0xB16A7B8E6812dEEe8D2dc06a1224480c5c4390A0",
+      "symbol": "BERO",
+      "decimals": 18,
+      "chainId": 421613,
+      "logoURI": "/images/BeroLogo.svg"
+    },
+    {
+      "name": "HONEY",
+      "address": "0x2698D7faCa7Fa9E2AA205A13a3e6a80ADbfF7C46",
+      "symbol": "HONEY",
+      "decimals": 6,
+      "chainId": 421613,
+      "logoURI": "/images/honey.svg"
+    }
+  ]
+}
